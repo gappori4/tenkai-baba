@@ -1,0 +1,22 @@
+{
+  "fetched_at": "2026-09-25T13:07:20+09:00",
+  "label": "9/27 中山 スプリンターズS G1",
+  "date": "2026-09-27",
+  "venue": "中山",
+  "course": "芝外1200　Cコース",
+  "post": "15:40",
+  "chief": "ハイペース監視",
+  "cushion": 9.5,
+  "cushion_at": "2026-09-25T10:30+09:00",
+  "stale": false,
+  "reason": "",
+  "turf": [
+    {"n": 2, "time": "10:35", "name": "芝2000", "note": null, "check": null, "status": "未出走", "detail": "結果の一覧にこの日がまだ無い。"},
+    {"n": 4, "time": "11:35", "name": "芝外1200", "note": "本番と同型", "check": null, "status": "未出走", "detail": "結果の一覧にこの日がまだ無い。"},
+    {"n": 5, "time": "12:25", "name": "芝2000", "note": null, "check": null, "status": "未出走", "detail": "結果の一覧にこの日がまだ無い。"},
+    {"n": 7, "time": "13:25", "name": "芝外1600", "note": null, "check": 1, "status": "未出走", "detail": "結果の一覧にこの日がまだ無い。"},
+    {"n": 9, "time": "14:25", "name": "サフラン賞", "note": null, "check": null, "status": "未出走", "detail": "結果の一覧にこの日がまだ無い。"},
+    {"n": 10, "time": "15:00", "name": "茨城新聞杯", "note": null, "check": 2, "status": "未出走", "detail": "結果の一覧にこの日がまだ無い。"}
+  ],
+  "error": null
+}
