@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T13:30:44+09:00",
+  "fetched_at": "2026-09-27T14:29:38+09:00",
   "label": "9/27 中山 スプリンターズS G1",
   "date": "2026-09-27",
   "venue": "中山",
@@ -66,5 +66,5 @@
       "detail": "結果の一覧にこの日がまだ無い。"
     }
   ],
-  "error": "結果一覧: Remote end closed connection without response"
+  "error": null
 }
